@@ -1,4 +1,4 @@
-i,t,m,Females 00-03,Females 04-08,Females 09-13,Females 14-18,Females 19-30,Females 31-50,Females 51-99,Males 00-03,Males 04-08,Males 09-13,Males 14-18,Males 19-30,Males 31-50,Males 51-99,log HSize
+i,t,m,F 00-03,M 00-03,F 04-08,M 04-08,F 09-13,M 09-13,F 14-18,M 14-18,F 19-30,M 19-30,F 31-50,M 31-50,F 51+,M 51+,log HSize
 0007d1f1449242feb5a25429644fb991,2019-20,Northern,,,,,1,,1,1,,,1,1,,,1.609437912
 0010cbae3cea4ec9831f6cd92b02dc16,2019-20,Northern,,,,,1,,1,,,,,,,1,1.098612289
 00246782f8654441a9df0f6ec0b6fc9f,2019-20,Northern,1,,1,,,1,,,1,1,,,1,,1.791759469
